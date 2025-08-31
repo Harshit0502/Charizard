@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10924512742",
+    "project_id": "pokedoke-75f8d",
+    "storage_bucket": "pokedoke-75f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10924512742:android:4b3d7c70d124a216ecf227",
+        "android_client_info": {
+          "package_name": "com.example.pokedoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10924512742-4uahr5gi1bprta7a4sekocuq7t2rfe7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfQ08sC6KJfHMtd0gR9K0DztU-8LfL_KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10924512742-4uahr5gi1bprta7a4sekocuq7t2rfe7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
