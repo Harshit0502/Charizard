@@ -1,4 +1,4 @@
-# pokedoke
+# Charizard
 ## Find Pokemons and look up your favourite Pokemons!
 A Pokemon app made with flutter and firebase. The app uses an API to fetch the data and display it on homescreen. Users can view the details of Pokemon by clicking on the Poke card. In the details screen they can mark a Pokemon as favourites. Favourite pokemons are stored locally using Hydrated BloC. The user states are being managed using BloC and are being preserved by Hydrated BloC. 
 
